@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: WooCommerce Rewardful
- * Plugin URI:
+ * Plugin URI: https://www.getrewardful.com/
  * Description: Enhance the WooCommerce Stripe checkout with Rewardful's conversion tracking
  * Version: 1.0.0
  * Author: Rewardful
