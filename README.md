@@ -33,3 +33,7 @@ We welcome [pull requests](https://github.com/rewardful/woocommerce-rewardful/pu
 * WooCommerce version
 * PHP version
 * Detailed steps for reproducing the issue
+
+# License
+
+This plugin is licensed under the GNU General Public License v2.0. See `LICENSE.txt` for the full text.
