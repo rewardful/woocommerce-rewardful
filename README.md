@@ -6,9 +6,9 @@ To use this plugin you must have an account with [Rewardful](https://www.getrewa
 
 # Installation
 
-1. Download the latest version of the plugin: [`woocommerce-rewardful-v1.0.zip`](https://github.com/rewardful/woocommerce-rewardful/releases/download/v1.0/woocommerce-rewardful-v1.0.zip)
+1. Download the latest version of the plugin: [`woocommerce-rewardful.zip`](https://github.com/rewardful/woocommerce-rewardful/releases/latest/download/woocommerce-rewardful.zip)
 2. In your WordPress admin, navigate to **Plugins → Add New → Upload Plugin**
-3. Upload `woocommerce-rewardful-v1.0.zip`
+3. Upload `woocommerce-rewardful.zip`
 4. Click the **Install Now** button.
 5. Click the **Activate Plugin** button after installation has completed.
 
