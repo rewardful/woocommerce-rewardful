@@ -70,7 +70,7 @@ class Woocommerce_Rewardful {
 		if ( defined( 'WOOCOMMERCE_REWARDFUL_VERSION' ) ) {
 			$this->version = WOOCOMMERCE_REWARDFUL_VERSION;
 		} else {
-			$this->version = '1.0.0';
+			$this->version = '1.1.0';
 		}
 		$this->plugin_name = 'woocommerce-rewardful';
 

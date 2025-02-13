@@ -4,7 +4,7 @@
  * Plugin Name: WooCommerce Rewardful
  * Plugin URI: https://www.getrewardful.com/
  * Description: Enhance the WooCommerce Stripe checkout with Rewardful's conversion tracking
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Rewardful
  * Author URI: https://www.getrewardful.com/
  * Text Domain: woocommerce-rewardful
@@ -26,7 +26,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'WOOCOMMERCE_REWARDFUL_VERSION', '1.0.0' );
+define( 'WOOCOMMERCE_REWARDFUL_VERSION', '1.1.0' );
 
 /**
  * The code that runs during plugin activation.
